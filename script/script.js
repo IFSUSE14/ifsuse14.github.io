@@ -5,3 +5,7 @@ function Bing()
 }
 //这是控制台彩蛋awa
 console.log("????还有人开控制台？？那你一定想改什么吧awa如果不是的话.....那没事了")
+function conlog()
+{
+    console.log("Air")
+}
